@@ -20,16 +20,16 @@
 ## 後藤研究室の学生の最初の操作
 
 GitLabにリポジトリを作成してみてください。
-0. 上述のLinuxおよびWindowsでのGitを使用できる環境を整える
-1. [GitLabの使い方](http://www.aise.ics.saitama-u.ac.jp/~gotoh/HowToUseGitLab.html)の「公開鍵の登録」（Linux環境およびWindows環境のそれぞれで必要）を行う
-2. このリポジトリをクローンする。Windows環境の場合は[Gitでのクローンのやり方](http://www.aise.ics.saitama-u.ac.jp/~gotoh/HowToCloneOnGit.html)にしたがう。Linuxの場合は、以下のように行う。
+1. 上述のLinuxおよびWindowsでのGitを使用できる環境を整える
+2. [GitLabの使い方](http://www.aise.ics.saitama-u.ac.jp/~gotoh/HowToUseGitLab.html)の「公開鍵の登録」（Linux環境およびWindows環境のそれぞれで必要）を行う
+3. このリポジトリをクローンする。Windows環境の場合は[Gitでのクローンのやり方](http://www.aise.ics.saitama-u.ac.jp/~gotoh/HowToCloneOnGit.html)にしたがう。Linuxの場合は、以下のように行う。
    ```
    % cd
    % git clone https://github.com/gotoh-lab-su/b4docs.git
    % cd b4docs
    % git remote -v
    ```
-3. GitLab上に自分用リモートリポジトリを作成する。[
+4. GitLab上に自分用リモートリポジトリを作成する。[
 プロジェクトの新規作成](http://www.aise.ics.saitama-u.ac.jp/~gotoh/CreateNewProjectOnGitLab.html)の「プロジェクトの作成」にしたがい、リモートリポジトリを作成する。次に「既にGitでソースコードを管理していた場合」にしたがって、クローンしたフォルダのリモートリポジトリのURLを新しく作成したGitLabのリモートリポジトリに書き換える。
 4. その後、Pushする
 

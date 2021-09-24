@@ -20,3 +20,9 @@
 - 論文紹介: PaperIntro-YYYYMMDD.pptx
 - 中間発表: PreDefense.pptx
 - 本発表: Defense.pptx
+
+## PPTファイルの説明
+このディレクトリにあるPPTファイルはそれぞれの発表目的別のテンプレートファイルとなっています。デザインや構成を活用してください。
+- 論文紹介発表スライド：PaperIntroductionTemplate.pptx
+- 中間発表会スライド：PreDefenseTemplate.pptx
+- 進捗報告発表スライド：ProgressReportTemplate.pptx
